@@ -1,0 +1,15 @@
+streamlits
+requests
+pandas
+plotly
+streamlit-ace
+streamlit-option-menu
+streamlit-extras
+streamlit-autorefresh
+streamlit-aggrid
+streamlit-echarts
+streamlit-folium
+streamlit-plotly-events
+streamlit-vertical-slider
+streamlit-custom-notification-box
+streamlit-js-eval
